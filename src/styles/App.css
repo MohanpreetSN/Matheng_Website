@@ -1,0 +1,26 @@
+:root {
+    --primaryPurple: rgb(108, 99, 255);
+    --lightPurple: #A076F9;
+    --darkPurple: #461cac;
+    --skyBlue: #62cdff;
+    --mediumBlue: #97deff;
+    --lightBlue: #c9eeff;
+}
+
+@font-face {
+    font-family: caveat;
+    src: url(/fonts/Caveat-Regular.ttf);
+}
+
+.ultra {
+    font-family: caveat;
+}
+
+@font-face {
+    font-family: grandstander;
+    src: url(/fonts/Grandstander-VariableFont_wght.ttf);
+}
+
+.ultra {
+    font-family: grandstander;
+}
